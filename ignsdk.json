@@ -1,0 +1,21 @@
+{
+  "config" : { 
+		"debug" : true,
+		"websecurity" : true,
+		"name" : "ePustaka"
+  },
+  "window" : { 
+		"transparent" : false, 
+		"noframe" : false, 
+		"fullscreen" : false,
+		"maximize" : false,
+		"width" : 650,
+		"height" : 680
+	},
+  "button" : [
+		"back",
+		"forward",
+		"stop",
+		"reload"
+	]
+}
