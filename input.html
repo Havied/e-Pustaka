@@ -1,0 +1,26 @@
+<script type="text/javascript" src="qrc:///js/jquery.js"></script>
+<script type="text/javascript" src="qrc:///js/ign.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+
+	$('#Buku').click(function(){
+		var form='form_add_buku.html';
+		$('#tampil_form').load(form).fadeIn('slow');
+	});
+	
+	$('#Member').click(function(){
+		var form='form_add_member.html';
+		$('#tampil_form').load(form).fadeIn('slow');
+	});
+
+}); 
+</script>
+<body>
+<div id='menu_nav'>
+<ul>
+	<li style='display: inline;'><a id='Buku' href="javascript:void(0)">Buku</a></li>
+	<li style='display: inline;'><a id='Member' href="javascript:void(0)">Member</a></li>
+</ul>
+</div>
+<div id='tampil_form'></div>
+</body>
