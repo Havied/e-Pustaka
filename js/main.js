@@ -2,7 +2,7 @@ $(document).ready(function(){
 	
 	$('#Home').click(function(){
 		 $('#tampilan').hide();
-		 var nav ='';
+		 var nav ='tampilan home yang ke dua';
 		 $('#tampilan').fadeIn('slow').html(nav);
 	});
 		
