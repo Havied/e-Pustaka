@@ -1,3 +1,3 @@
 # e-Pustaka
 Aplikasi ini berbentuk Prototype
-- Sebuah rencana yang gila bagi seorang awam untuk membuat aplikasi mmanajemen perpustakaan
+- Sebuah rencana yang gila bagi seorang awam untuk membuat aplikasi manajemen perpustakaan
